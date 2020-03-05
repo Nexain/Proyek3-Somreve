@@ -1,7 +1,12 @@
 # Proyek3-Somreve
 
-# Afif Rana Muhammad
-# Muhammad Salman Al Hafizh
-# Mumuh Kustino Muharram
-# Sophia Gianina Daeli
-# Alifia Syalsabila
+# Deskripsi
+Github untuk proyek IoT Kelompok 3
+
+# Anggota Kelompok
+Muhammad Salman Al Hafizh
+Sophia Gianina Daeli
+Ahmad Aji Naufal Ali
+Afif Rana Muhammad
+Mumuh Kustino Muharram
+Alifia Syalsabila
