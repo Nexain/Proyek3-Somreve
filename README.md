@@ -7,3 +7,5 @@ Github untuk proyek IoT Kelompok 3
 Muhammad Salman Al Hafizh
 Sophia Gianina Daeli
 Ahmad Aji Naufal Ali
+Afif Rana Muhammad
+Mumuh Kustino Muharram
